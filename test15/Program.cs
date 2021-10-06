@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace test15
+namespace hometask7
 {
     class Program
     {
